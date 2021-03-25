@@ -10,4 +10,6 @@ Make a system that emulates the transactions that are carried out by either a ba
 4. Allow the customer to decide whether to make the transaction with checking or savings account
 5. Allow the customer to make a transfer between savings and checking account
 
+[How To Use Jupyter Notebooks](https://www.codecademy.com/articles/how-to-use-jupyter-notebooks-py3)
+
 [Project files](https://content.codecademy.com/programs/python-for-finance/bank_teller.zip)
